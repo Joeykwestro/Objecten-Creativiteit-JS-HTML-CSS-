@@ -1,0 +1,19 @@
+#main {
+	height: 600px;
+	width: 600px;
+	margin: auto auto;
+	background: url('images/bg0.jpg');
+	position: relative;
+}
+
+#counter{
+	position: absolute;
+	right: 0px;
+	bottom: 0px;
+}
+
+#button1, #button2, #button3 {
+	height: 50px;
+	widows: 50px;
+	background: green;
+}
